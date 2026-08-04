@@ -13,6 +13,13 @@ This text is based on Markdown format to structure the English and Turkish websi
 Abstract: Brictec was founded in 2011 and was devoted to EPC projects for fired brick plants, drying chamber construction, automation projects, brick unloading and packing systems, and more. The company combines European technology with Chinese advanced technology, providing process design, equipment manufacturing, EPC services, and maintenance support for brick plants. Brictec's projects are located worldwide, offering complete production lines and professional technical team services.
 
 
-# About Us
+# Home
+
+## Slogan
+Drying determines Brick yield; controllability ensures stability.
+Precise temperature control Gradient dewatering 
+Every green brick completes its transformation along the optimal drying curve.
 
 ## 
+
+
