@@ -16,10 +16,47 @@ Abstract: Brictec was founded in 2011 and was devoted to EPC projects for fired 
 # Home
 
 ## Slogan
-Drying determines Brick yield; controllability ensures stability.
-Precise temperature control Gradient dewatering 
-Every green brick completes its transformation along the optimal drying curve.
 
-## 
+- One-Stop EPC Solution for Full Fired Brick Production Chain
+- Custom full-process design including raw material treatment, automatic cutting, drying, tunnel kilns, industrial burners and automatic packaging
+- Brictec offers customizable daily capacities from 200 to 1,200 tons, satisfying different capacity demands.
+- Professional Tunnel Kiln EPC Service Provider
+- Complete Full-Line Equipment Delivery to Build Intelligent Fired Brick Plants
 
+## Introduction
+
+Brictec has implemented projects in over 30 countries and regions, including China, Russia, Kosovo, Kazakhstan, Uzbekistan, Tajikistan, Vietnam, Malaysia, Iraq, India, Bangladesh, South Africa, Zimbabwe, Peru, Colombia, among others.
+With 15 years of dedication to the fired brick industry, we independently develop and manufacture complete full-line equipment, delivering full-process design ranging from raw material treatment to brick packaging.
+We provide one-stop professional tunnel kiln EPC solutions and operate in over 30 countries globally. Integrating Italian technology with Chinese intelligent manufacturing, we customize production lines with a daily capacity of 200 to 1,200 tons to meet client demands.
+
+## Core Business
+
+### Brictec Custom Dual-Fuel Kiln Burners Supply 
+
+Full-range natural gas & heavy oil burners, precise temperature control, energy saving for brick plant EPC projects.
+
+- Brictec Tunnel Kiln Burners
+- Natural Gas Burner
+- Heavy Oil Burner
+- Solid Fuel Burner
+- Dual-Fuel Kiln Burners
+- Brictec Manufacturer of Tunnel Kiln Burners
+
+### Strip Cutting · Brick Cutting · Grouping & Brick Turning · Drying Loading & Unloading
+
+- Bar cutting Machine
+- Vertical Brick Cutting Machine
+- Continuous Brick Cutting Machine
+- Grouping and Turning System
+- Automatic Brick Setting Machine
+- Fixed Pallet Loading and Unloading System
+- Movable Pallet Loading and Unloading System
+- Kiln car cleaning system
+
+### Automated Brick Unloading and Packaging System
+
+Three Proven Packaging Solutions:
+- Strapping Packaging
+- Shrink Wrapping Packaging
+- Stretch Wrapping Packaging
 
