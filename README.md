@@ -78,3 +78,40 @@ Standardized EPC turnkey solutions, customized capacities from 200 to 1,200 tpd,
 
 # Automation
 
+## Slogen
+
+Strip Cutting · Brick Cutting · Grouping & Brick Turnover · Drying Loading & Unloading
+Brictec provides complete automatic equipment for fired brick production sections，
+offering automated solutions from strip cutting, brick cutting, grouping and brick turnover, to drying and loading/unloading systems.
+
+## Core Products
+
+- Bar Cutter
+   - Bar Cutting Machine precisely divides extruded clay into standard strips with uniform size. Stable operation guarantees tidy cut surfaces and minimizes clay deformation. It can work in tandem with various brick cutters as key front-end equipment for fired brick making.
+
+- Vertical Brick Cutting Machine
+   - Vertical Brick Cutting Machine cuts clay strips vertically with high precision to form neat green bricks. Compact footprint, ideal for medium & small fired brick lines. Stable operation ensures smooth cut surfaces, and it can coordinate with strip cutting and grouping equipment.
+ 
+- Continuous Brick Cutting Machine
+   - The Continuous Brick Cutting Machine cuts extruded clay strips evenly to produce standardized green bricks. With smooth continuous operation and low breakage, it can be linked with strip cutting and turnover equipment for automated sintered brick production lines.
+
+- Grouping and Turning System
+   - Automatically completes grouping and turnover of green bricks to adjust placement for drying requirements. Stable operation reduces green brick damage. It connects cutting and setting equipment, suitable for various sintered brick lines to realize continuous automation.
+ 
+- Automatic Brick Setting Machine
+   - The robotic brick setting machine accurately grabs green bricks and arranges them onto pallets of drying cars. Stable operation reduces brick breakage, suitable for various sintered bricks. It replaces manual labor, boosts efficiency and connects seamlessly with cutting and loading systems.
+
+- Kiln car cleaning system
+   - The kiln car cleaning device automatically removes residues and dust, replacing manual cleaning and keeping kiln cars clean. It avoids adverse impacts on firing quality, fits continuous tunnel kiln production and cuts labor costs.
+
+## Advanced Drying System
+
+- Fixed Pallet Loading and Unloading System
+   - The pallets are fixed on the drying cars and cannot be transported separately. Green bricks are directly stacked on the pallets and sent into the drying chamber together with the drying cars. After drying, the bricks are unloaded, and the pallets remain on the drying cars for continuous recycling.
+ 
+- Movable Pallet Loading and Unloading System
+   - Pallets can be separated from drying cars for independent transportation. During brick setting, pallets carrying green bricks are placed onto drying cars. After drying, the pallets together with dried bricks are wholly removed for unloading.
+ 
+## Cases
+
+The business scope of Brictec covers: China, Russia, Kosovo, Kazakhstan, Uzbekistan, Tajikistan, Vietnam, Malaysia, Iraq, India, Bangladesh, South Africa, Zimbabwe, Peru, Colombia, and over 30 other countries and regions.
