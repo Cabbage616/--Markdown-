@@ -53,10 +53,28 @@ Full-range natural gas & heavy oil burners, precise temperature control, energy 
 - Movable Pallet Loading and Unloading System
 - Kiln car cleaning system
 
+### Drying Chamber
+
+Fired Clay Brick Drying Solution 1
+- The tunnel drying chamber consists of the following subsystems: green brick loading andgrouping system, green brick pallet (or bar) or drying rack loading system, dried brick pallet (or bar)or drying rack unloading system, pallet (or bar) storage and transport system, and dried brick stackingand grouping system. These subsystems are adjusted as required.
+
+Fired Clay Brick Drying Solution 2
+- The compartment drying chamber is a closed, independent drying room. Green bricks are loadedin a single batch, dried completely, and then unloaded as a whole, operating on a batchproduction basis.
+
+Fired Clay Brick Drying Solution 3
+- It effectively addresses the drying challenges of brick raw materials characterized by high dryingsensitivity, high shrinkage, high forming moisture, and low critical moisture.
+
 ### Automated Brick Unloading and Packaging System
 
 Three Proven Packaging Solutions:
 - Strapping Packaging
 - Shrink Wrapping Packaging
 - Stretch Wrapping Packaging
+
+## Promise
+
+Backed by Brictec's global project experience.
+Standardized EPC turnkey solutions, customized capacities from 200 to 1,200 tpd,with full-process support and technical guidance - worry-free plant construction,trusted by brick plant operators worldwide.
+
+# Automation
 
