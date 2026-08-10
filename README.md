@@ -74,15 +74,14 @@ Three Proven Packaging Solutions:
 ## Promise
 
 Backed by Brictec's global project experience.
-Standardized EPC turnkey solutions, customized capacities from 200 to 1,200 tpd,with full-process support and technical guidance - worry-free plant construction,trusted by brick plant operators worldwide.
+Standardized EPC turnkey solutions, customized capacities from 200 to 1,200 tpd,with full-process support and technical guidance - worry-free plant construction, trusted by brick plant operators worldwide.
 
 # Automation
 
 ## Slogen
 
 Strip Cutting · Brick Cutting · Grouping & Brick Turnover · Drying Loading & Unloading
-Brictec provides complete automatic equipment for fired brick production sections，
-offering automated solutions from strip cutting, brick cutting, grouping and brick turnover, to drying and loading/unloading systems.
+Brictec provides complete automatic equipment for fired brick production sections，offering automated solutions from strip cutting, brick cutting, grouping and brick turnover, to drying and loading/unloading systems.
 
 ## Core Products
 
@@ -108,7 +107,6 @@ offering automated solutions from strip cutting, brick cutting, grouping and bri
 
 - Fixed Pallet Loading and Unloading System
    - The pallets are fixed on the drying cars and cannot be transported separately. Green bricks are directly stacked on the pallets and sent into the drying chamber together with the drying cars. After drying, the bricks are unloaded, and the pallets remain on the drying cars for continuous recycling.
- 
 - Movable Pallet Loading and Unloading System
    - Pallets can be separated from drying cars for independent transportation. During brick setting, pallets carrying green bricks are placed onto drying cars. After drying, the pallets together with dried bricks are wholly removed for unloading.
  
@@ -185,7 +183,23 @@ Rapid Drying Chamber:
 It effectively addresses the drying challenges of brick raw materials characterized by high drying sensitivity, high shrinkage, high forming moisture, and low critical moisture.
 
 - Advantages:
-   - Extremely fast drying speed and high production efficiency: The high-speed drying medium (10–12 m/s) enables intensive convective heat exchange with the green bricks, reducing the drying cycle to only 2–4 hours, which is 1/5 to 1/10 of that of conventional tunnel drying chambers, significantly shortening the production process. 
+   - Extremely fast drying speed and high production efficiency: The high-speed drying medium (10–12 m/s) enables intensive convective heat exchange with the green bricks, reducing the drying cycle to only 2–4 hours, which is 1/5 to 1/10 of that of conventional tunnel drying chambers, significantly shortening the production process.
+   - Strong adaptability for extra-large products: It can dry extra-large fired products such as floor bricks, breaking through the size limitations of traditional drying equipment.
+   - Factory-integrated manufacturing: The highly integrated design allows factory prefabrication and on-site assembly, resulting in a short construction period and convenient installation and commissioning.
+- Features:
+   - Closed-loop circulation of drying racks or hanging baskets, eliminating the need for a large number of drying cars.
+   - Continuous counter-current drying process.
+   - Simultaneous loading and unloading of green bricks.
+   - Compact structure with few moving parts.
+- Applications:
+   - Hollow bricks, perforated bricks, hollow blocks, insulating blocks, and other fired products with high void ratios.
+   - Brick plants with limited site space, high capacity requirements, and a focus on high void ratio products.
+   - Projects involving old plant renovation or capacity upgrading where space is constrained.
+
+ 
+# Packaging
+
+
 
 
 
