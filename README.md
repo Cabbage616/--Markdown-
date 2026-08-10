@@ -220,6 +220,34 @@ Strapping・Shrink Wrapping・Stretch Wrapping — Full Automatic Brick Unloadin
 - Full Automatic Brick Unloading & Packing Systems
    - Packing Precision, Built for Brick Plants.
    - Brictec fully automatic brick unloading and packing system connects the whole processes of brick unloading, sorting, stacking and packing in automation. It replaces the traditional manual brick unloading and packing mode, greatly cutting labor costs while ensuring consistent packing quality for every brick stack.
+   - It drastically cuts down the number of frontline workers and eases labor management difficulties. Meanwhile, it prevents brick chipping, irregular stacking and other defects caused by manual operation, ensuring every brick stack delivered from the factory is neat and standardized.
+   - Drawing on years of experience in complete sintered brick production line EPC projects, Brictec provides customized design of brick unloading and packing systems for every customer.
+   - Fully Automatic Brick Unloading & Packing System · Customized Integrated Solutions for You! 
 
+# Contact
 
+## Slogan
 
+- Auto Brick Setting | Loading-Unloading Lines | Burners
+- Italian Tech, Chinese Production, Reliable Controllable Quality
+- Brictec caters to various production capacities and provides customized EPC projects for brick plants with a daily output ranging from 200 to 1,200 tons.
+- 15 years in tunnel kiln brick plants.
+- Meet various capacity requirements and provide reliable production support. Brictec offers customizable daily capacities from 200 to 1,200 tons, with a dedicated team for long-term operation and production.
+
+## Project Distribution
+
+Brictec has implemented projects in over 30 countries and regions, including China, Russia, Kosovo, Kazakhstan, Uzbekistan, Tajikistan, Vietnam, Malaysia, Iraq, India, Bangladesh, South Africa, Zimbabwe, Peru, Colombia, among others.
+
+## Contact Details
+
+- Messages:
+   - E-mail: info@brictec.com
+   - WhatsApp:+8618182622677
+- Other Languages:
+   - https://en.brictec.com
+   - https://www.brictec-ru.com
+   - https://es.brictec.com
+   - www.brictecmachinery.com
+   - https://www.brictec-ar.com
+
+Share your requirements with us, and we will offer professional technical solutions and dedicated service.
