@@ -115,3 +115,79 @@ offering automated solutions from strip cutting, brick cutting, grouping and bri
 ## Cases
 
 The business scope of Brictec covers: China, Russia, Kosovo, Kazakhstan, Uzbekistan, Tajikistan, Vietnam, Malaysia, Iraq, India, Bangladesh, South Africa, Zimbabwe, Peru, Colombia, and over 30 other countries and regions.
+
+
+# Drying
+
+## Principle
+
+Brictec Visualizes the Drying Principle of the Drying Chamber
+Hot Air Circulation - Uniform and Controllable
+Heavy moisture with the features of high humidity and low temperature goesdown to the exhaust channel, the hot air from outside and indoor warm air mixand circulate together for 12 times theoretically.
+
+## Importance
+
+The Critical Process Determining the Overall Plant Yield Rate
+The drying section serves as the first critical checkpoint for the final product yield. The cyclone hot-air drying system, through precise control of the temperature and humidity fields, prevents green bricks from cracking or collapsing due to excessive moisture differentials. Only when the drying quality remains consistently stable can the subsequent firing pass rate be ensured.
+
+1. The Critical Transition from Green Bricks to Finished Products
+- The drying chamber employs gradient temperature controland uniform moisture removal, enabling the green bricksto complete their moisture transition within a controlleddrying environment.
+
+2. The Critical Process Determining the Overall Plant Yield Rate
+- The cyclone hot-air drying system ensures stable drying qualitythrough uniform control of the temperature and humidity fields;only with such stability can the subsequent firing pass rate beguaranteed.
+
+3. The Drying Chamber as the Key Node for Plant Production Capacity
+The intelligent drying system, through precise hot-air circulationand moisture extraction control, shortens the drying cycleand enables efficient integration of the four main productionstages: forming, brick stacking, drying, and firing.
+
+## Keywords
+
+Gradient temperature control, uniform moisture extraction, controlled drying, cyclone hot-air drying, yield rate, temperature and humidity field, firing pass rate, intelligent drying system, hot-air circulation, drying cycle, overall plant capacity.
+
+## Drying Solutions
+
+### Solution 1
+
+Tunnel Drying Chamber:
+The tunnel drying chamber consists of the following subsystems: green brick loading and grouping system, green brick pallet (or bar) or drying rack loading system, dried brick pallet (or bar) or drying rack unloading system, pallet (or bar) storage and transport system, and dried brick stacking and grouping system. These subsystems are adjusted as required.
+
+- Advantages:
+   - Counter-current continuous drying process with low heat consumption and high energy efficiency: The green bricks exchange heat with hot air in a counter-current manner, ensuring stable heat transfer. Evaporating 1 kg of water requires only 3,600–4,000 kJ of heat, demonstrating excellent energy performance. Minimal temperature and humidity fluctuations in the chamber, adequate heat exchange, and high thermal efficiency.
+   - Full-line automated integration with strong inter-process coordination: The system can be fully integrated with the entire process of forming, drying, and firing. It synchronizes with brick setting, loading/unloading, and shuttle/towing equipment, ensuring a unified production rhythm and strong continuity of the production line.
+   - Stable and controllable quality of dried products: Hot air uniformly covers the green bricks, and staged gradient dewatering is applied. The moisture differential across the bricks is minimal, significantly reducing cracking and deformation defects, and the moisture content of the dried bricks consistently meets the standard.
+- Features:
+   - Providing complete automated transfer equipment, enabling full automation from wet brick palletizing and conveying to shuttling and automatic unloading from racks, with no need for extensive manual handling.
+   - The drying cars circulate automatically, ensuring rapid flow through the drying section and high production line efficiency.
+   - Flexible air supply configurations are available—single layer tunnels can be equipped with tower type air distributors or mobile fans—ensuring uniform hot air distribution across the cross section of the drying chamber and eliminating local moisture differentials.
+- Applications:
+   - Large and medium-sized automated fired brick plants with a daily capacity of over 200 tons.
+   - Projects with high requirements for product quality and yield.
+   - Various types of green bricks, including solid bricks, perforated bricks, hollow bricks, paving bricks, and blocks, made from clay, shale, or coal gangue.
+ 
+### Solution 2
+
+Compartment Drying Chamber:
+The compartment drying chamber is a closed, independent drying room. Green bricks are loaded in a single batch, dried completely, and then unloaded as a whole, operating on a batch production basis.
+
+- Advantages:
+   - Intermittent unit-based production with flexible start-up and shutdown, allowing easy process adjustment: Each drying chamber can be divided into multiple units that operate independently in rotation (loading → drying → unloading). Commissioning or failure of a single unit does not affect overall production.
+   - Closed and controllable drying process ensuring high product quality: The drying process is carried out in a fully enclosed manner, with temperature and humidity dynamically adjusted according to operating conditions. Moisture is exhausted only after uniform temperature and humidity are achieved throughout the chamber. Combined with precise loading and unloading by finger-type forklifts, drying quality remains stable.
+   - Flexible equipment configuration with upgrade options: Basic configuration requires only mixing/circulation fans; advanced options can include tower-type air distributors or mobile fans to further improve airflow uniformity.
+- Features:
+   - Diverse options: Equipped with movable pallets, bars, or drying racks in three forms, adaptable to various brick types and stacking methods.
+   - Clear workflow: Palletizing/racking → forklift shuttling → stacking in drying chamber → drying → unloading → de racking. Each step operates according to preset time schedules, simplifying management.
+   - Low civil engineering difficulty: Compared with the tunnel type, the compartment drying chamber has a relatively simple structure, shorter construction period, and lower initial investment threshold.
+- Applications:
+   - Small brick plants or new projects with limited investment budgets.
+   - Production modes with multiple varieties, small batches, and unstable orders.
+   - Drying of small-batch customized products such as special-shaped and specialty bricks.
+
+## Solution 3
+
+Rapid Drying Chamber:
+It effectively addresses the drying challenges of brick raw materials characterized by high drying sensitivity, high shrinkage, high forming moisture, and low critical moisture.
+
+- Advantages:
+   - Extremely fast drying speed and high production efficiency: The high-speed drying medium (10–12 m/s) enables intensive convective heat exchange with the green bricks, reducing the drying cycle to only 2–4 hours, which is 1/5 to 1/10 of that of conventional tunnel drying chambers, significantly shortening the production process. 
+
+
+
