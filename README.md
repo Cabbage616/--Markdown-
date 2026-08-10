@@ -240,7 +240,7 @@ Brictec has implemented projects in over 30 countries and regions, including Chi
 
 ## Contact Details
 
-- Messages:
+- Contact Methods:
    - E-mail: info@brictec.com
    - WhatsApp:+8618182622677
 - Other Languages:
