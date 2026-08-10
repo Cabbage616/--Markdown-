@@ -6,12 +6,39 @@ language: EN
 ---
 
 ---
-# BRICTEC - 网站目录概览
+# BRICTEC - Website Section Overview
 
 This text is based on Markdown format to structure the English and Turkish website layout of Xi'an Brictec Engineering Co., Ltd. (abbreviation: Brictec). The layout includes introduction, production, construction cases, technology, and services, while facilitating maintenance, search, and dissemination.
 
-Abstract: Brictec was founded in 2011 and was devoted to EPC projects for fired brick plants, drying chamber construction, automation projects, brick unloading and packing systems, and more. The company combines European technology with Chinese advanced technology, providing process design, equipment manufacturing, EPC services, and maintenance support for brick plants. Brictec's projects are located worldwide, offering complete production lines and professional technical team services.
+## Abstract: 
 
+Brictec was founded in 2011 and was devoted to EPC projects for fired brick plants, drying chamber construction, automation projects, brick unloading and packing systems, and more. The company combines European technology with Chinese advanced technology, providing process design, equipment manufacturing, EPC services, and maintenance support for brick plants. Brictec's projects are located worldwide, offering complete production lines and professional technical team services.
+
+## Navigation Map
+
+- [Home](#home)
+   - [Slogan](#slogan)
+   - [Introduction](#introduction)
+   - [Core Bussiness](#core-business)
+   - [Promise](#promise)
+- [Automation](#automation)
+   - [Slogan](#slogan)
+   - [Core Products](#core-products)
+   - [Advanced Drying System](#advanced-drying-system)
+   - [Cases](#cases)
+- [Drying](#drying)
+   - [Principle](#principle)
+   - [Importance](#importance)
+   - [Keywords](#keywords)
+   - [Drying Solutions](#drying-solutions)
+- [Packaging](#packaging)
+   - [Slogan](#slogan)
+   - [Packing Solutions](#packing-solutions)
+- [Contact](#contact)
+   - [Slogan](#slogan)
+   - [Project Distribution](#project-distribution)
+   - [Contact Details](#contact-details)
+---
 
 # Home
 
@@ -75,6 +102,7 @@ Three Proven Packaging Solutions:
 
 Backed by Brictec's global project experience.
 Standardized EPC turnkey solutions, customized capacities from 200 to 1,200 tpd,with full-process support and technical guidance - worry-free plant construction, trusted by brick plant operators worldwide.
+
 
 # Automation
 
@@ -177,7 +205,7 @@ The compartment drying chamber is a closed, independent drying room. Green brick
    - Production modes with multiple varieties, small batches, and unstable orders.
    - Drying of small-batch customized products such as special-shaped and specialty bricks.
 
-## Solution 3
+### Solution 3
 
 Rapid Drying Chamber:
 It effectively addresses the drying challenges of brick raw materials characterized by high drying sensitivity, high shrinkage, high forming moisture, and low critical moisture.
