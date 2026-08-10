@@ -1,5 +1,5 @@
 ---
-name: Using Markdown language to organize the framework and content of Brictec's English & Turkish website.
+name: Using Markdown language to organize the framework and content of Brictec's static website.
 description: Using Markdown to structure the new website framework, clearly displaying the site layout and all content, while facilitating maintenance, search, and dissemination.
 url: https://www.brictec.com/
 language: EN
