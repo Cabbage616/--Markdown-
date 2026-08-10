@@ -130,14 +130,12 @@ Heavy moisture with the features of high humidity and low temperature goesdown t
 The Critical Process Determining the Overall Plant Yield Rate
 The drying section serves as the first critical checkpoint for the final product yield. The cyclone hot-air drying system, through precise control of the temperature and humidity fields, prevents green bricks from cracking or collapsing due to excessive moisture differentials. Only when the drying quality remains consistently stable can the subsequent firing pass rate be ensured.
 
-1. The Critical Transition from Green Bricks to Finished Products
-- The drying chamber employs gradient temperature controland uniform moisture removal, enabling the green bricksto complete their moisture transition within a controlleddrying environment.
-
-2. The Critical Process Determining the Overall Plant Yield Rate
-- The cyclone hot-air drying system ensures stable drying qualitythrough uniform control of the temperature and humidity fields;only with such stability can the subsequent firing pass rate beguaranteed.
-
-3. The Drying Chamber as the Key Node for Plant Production Capacity
-The intelligent drying system, through precise hot-air circulationand moisture extraction control, shortens the drying cycleand enables efficient integration of the four main productionstages: forming, brick stacking, drying, and firing.
+- The Critical Transition from Green Bricks to Finished Products
+   - The drying chamber employs gradient temperature controland uniform moisture removal, enabling the green bricksto complete their moisture transition within a controlleddrying environment.
+- The Critical Process Determining the Overall Plant Yield Rate
+   - The cyclone hot-air drying system ensures stable drying qualitythrough uniform control of the temperature and humidity fields;only with such stability can the subsequent firing pass rate beguaranteed.
+- The Drying Chamber as the Key Node for Plant Production Capacity
+   - The intelligent drying system, through precise hot-air circulationand moisture extraction control, shortens the drying cycleand enables efficient integration of the four main productionstages: forming, brick stacking, drying, and firing.
 
 ## Keywords
 
