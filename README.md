@@ -199,7 +199,27 @@ It effectively addresses the drying challenges of brick raw materials characteri
  
 # Packaging
 
+## slogan
 
+Brictec Delivers One-Stop System Solutions
+It seamlessly integrates automatic packing as an organic part of the entire production line, delivering sustained and stable efficiency improvements and cost optimization for your brick plant.
+
+## Packing Solutions
+
+Three Packing Solutions, One Reliable Partner.
+Strapping・Shrink Wrapping・Stretch Wrapping — Full Automatic Brick Unloading & Packing Systems
+- Strapping
+   - Strapping with PET straps or steel bands delivers tight and firm binding, ideal for heavy-duty products such as solid bricks and load-bearing blocks, featuring low cost and high efficiency.
+ 
+- Shrink Wrapping
+   - Full wrapping with heat shrink film provides moisture and dust resistance, suitable for decorative bricks, fair-faced bricks and other products with high appearance standards.
+ 
+- Stretch Wrapping
+   - Spiral wrapping with stretch film fits special brick types including special-shaped bricks and large-size blocks. It boasts great flexibility and keeps brick stacks stable without loosening.
+
+- Full Automatic Brick Unloading & Packing Systems
+   - Packing Precision, Built for Brick Plants.
+   - Brictec fully automatic brick unloading and packing system connects the whole processes of brick unloading, sorting, stacking and packing in automation. It replaces the traditional manual brick unloading and packing mode, greatly cutting labor costs while ensuring consistent packing quality for every brick stack.
 
 
 
