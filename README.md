@@ -6,6 +6,7 @@ language: EN
 ---
 
 ---
+
 # BRICTEC - Website Section Overview
 
 This text is based on Markdown format to structure the English and Turkish website layout of Xi'an Brictec Engineering Co., Ltd. (abbreviation: Brictec). The layout includes introduction, production, construction cases, technology, and services, while facilitating maintenance, search, and dissemination.
@@ -17,12 +18,12 @@ Brictec was founded in 2011 and was devoted to EPC projects for fired brick plan
 ## Table of Contents
 
 - [Home](#home)
-   - [Slogan](#slogan)
+   - [Slogan](#home-slogan)
    - [Introduction](#introduction)
-   - [Core Bussiness](#core-business)
+   - [Core Business](#core-business)
    - [Promise](#promise)
 - [Automation](#automation)
-   - [Slogan](#slogan)
+   - [Slogan](#automation-slogan)
    - [Core Products](#core-products)
    - [Advanced Drying System](#advanced-drying-system)
    - [Cases](#cases)
@@ -32,12 +33,13 @@ Brictec was founded in 2011 and was devoted to EPC projects for fired brick plan
    - [Keywords](#keywords)
    - [Drying Solutions](#drying-solutions)
 - [Packaging](#packaging)
-   - [Slogan](#slogan)
+   - [Slogan](#packaging-slogan)
    - [Packing Solutions](#packing-solutions)
 - [Contact](#contact)
-   - [Slogan](#slogan)
+   - [Slogan](#contact-slogan)
    - [Project Distribution](#project-distribution)
    - [Contact Details](#contact-details)
+
 ---
 
 # Home
@@ -103,6 +105,7 @@ Three Proven Packaging Solutions:
 Backed by Brictec's global project experience.
 Standardized EPC turnkey solutions, customized capacities from 200 to 1,200 tpd,with full-process support and technical guidance - worry-free plant construction, trusted by brick plant operators worldwide.
 
+---
 
 # Automation
 
@@ -142,6 +145,7 @@ Brictec provides complete automatic equipment for fired brick production section
 
 The business scope of Brictec covers: China, Russia, Kosovo, Kazakhstan, Uzbekistan, Tajikistan, Vietnam, Malaysia, Iraq, India, Bangladesh, South Africa, Zimbabwe, Peru, Colombia, and over 30 other countries and regions.
 
+---
 
 # Drying
 
@@ -224,6 +228,7 @@ It effectively addresses the drying challenges of brick raw materials characteri
    - Brick plants with limited site space, high capacity requirements, and a focus on high void ratio products.
    - Projects involving old plant renovation or capacity upgrading where space is constrained.
 
+---
  
 # Packaging
 
@@ -251,6 +256,8 @@ Strapping・Shrink Wrapping・Stretch Wrapping — Full Automatic Brick Unloadin
    - It drastically cuts down the number of frontline workers and eases labor management difficulties. Meanwhile, it prevents brick chipping, irregular stacking and other defects caused by manual operation, ensuring every brick stack delivered from the factory is neat and standardized.
    - Drawing on years of experience in complete sintered brick production line EPC projects, Brictec provides customized design of brick unloading and packing systems for every customer.
    - Fully Automatic Brick Unloading & Packing System · Customized Integrated Solutions for You! 
+
+---
 
 # Contact
 
