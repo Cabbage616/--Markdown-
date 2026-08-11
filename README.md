@@ -232,7 +232,7 @@ It effectively addresses the drying challenges of brick raw materials characteri
  
 # Packaging
 
-## slogan
+## Slogan
 
 Brictec Delivers One-Stop System Solutions
 It seamlessly integrates automatic packing as an organic part of the entire production line, delivering sustained and stable efficiency improvements and cost optimization for your brick plant.
