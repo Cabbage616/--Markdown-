@@ -106,7 +106,7 @@ Standardized EPC turnkey solutions, customized capacities from 200 to 1,200 tpd,
 
 # Automation
 
-## Slogen
+## Slogan
 
 Strip Cutting · Brick Cutting · Grouping & Brick Turnover · Drying Loading & Unloading
 Brictec provides complete automatic equipment for fired brick production sections，offering automated solutions from strip cutting, brick cutting, grouping and brick turnover, to drying and loading/unloading systems.
