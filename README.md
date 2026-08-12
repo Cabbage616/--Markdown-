@@ -1,6 +1,6 @@
 Markdown
 
-# Introduction
+# Brictec Introduction
 
 Brictec has implemented projects in over 30 countries and regions, including China, Russia, Kosovo, Kazakhstan, Uzbekistan, Tajikistan, Vietnam, Malaysia, Iraq, India, Bangladesh, South Africa, Zimbabwe, Peru, Colombia, among others.
 With 15 years of dedication to the fired brick industry, we independently develop and manufacture complete full-line equipment, delivering full-process design ranging from raw material treatment to brick packaging.
